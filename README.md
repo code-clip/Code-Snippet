@@ -1,4 +1,4 @@
-# Clear Cache in Android Application programmatically
+# Clear Cache in Android App
 ```java
 public static void deleteCache(Context context) {
     try {
